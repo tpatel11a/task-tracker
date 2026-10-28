@@ -1,5 +1,14 @@
 [
-  "Learn Git and GitHub workflow",
-  "Complete Milestone 1",
-  "Practice pip freeze and requirements.txt"
+  {
+    "text": "Learn Git and GitHub workflow",
+    "completed": true
+  },
+  {
+    "text": "Complete Milestone 1",
+    "completed": false
+  },
+  {
+    "text": "Practice pip freeze and requirements.txt",
+    "completed": false
+  }
 ]
